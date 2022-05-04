@@ -6,6 +6,7 @@
     <thead style="border-bottom: 2px solid black; border-right: 1px solid black">
     <tr style="border: 2px solid black">
         <th style="border: 2px solid black">#ID</th>
+        <th style="border: 2px solid black; color: blue">LINK</th>
         <th style="border: 2px solid black">table_id</th>
         <th style="border: 2px solid black">dealer_id_atr</th>
         <th style="border: 2px solid black">dealer</th>
@@ -50,10 +51,13 @@
     @forelse($vehicles as $vehicle)
         <tr style="border-bottom: 2px solid black; border-right: 1px solid black">
             <td style="border-bottom: 2px solid black; border-right: 1px solid black">{{ $vehicle->id }}</td>
-            <td  style="border-bottom: 2px solid black; border-right: 1px solid black">
+            <td style="border-bottom: 2px solid black; border-right: 1px solid black">
                 <a href="{{route('show', ['id' => $vehicle->id])}}">
-                    {{ $vehicle->table_id }}
+                    перейти
                 </a>
+            </td>
+            <td style="border-bottom: 2px solid black; border-right: 1px solid black">
+                {{ $vehicle->table_id }}
             </td>
             <td style="border-bottom: 2px solid black; border-right: 1px solid black">{{ $vehicle->dealer_id_atr }}</td>
             <td style="border-bottom: 2px solid black; border-right: 1px solid black">{{ $vehicle->dealer }}</td>
@@ -92,13 +96,10 @@
             <td style="border-bottom: 2px solid black; border-right: 1px solid black">{{ $vehicle->vehicleCondition }}</td>
             <td style="border-bottom: 2px solid black; border-right: 1px solid black">{{ $vehicle->acquisitionSource }}</td>
             <td style="border-bottom: 2px solid black; border-right: 1px solid black">{{ $vehicle->acquisitionDate }}</td>
-            {{--            <td>--}}
-            {{--                <a href="{{route('admin.category.edit', ['category' => $category])}}">Ред.</a>&nbsp--}}
-            {{--                <a href="{{ route('deleteCategory', ['id' => $category->id]) }}">Уд.</a>--}}
-            {{--            </td>--}}
         </tr>
     @empty
-        <td colspan="4">автомобилей нет</td>
+        <td colspan="4">данные отсутсвтуют</td>
+        <h2>пожалуйста, выполните команду <i>php artisan myparser {path}</i></h2>
     @endforelse
     </tbody>
 </table>

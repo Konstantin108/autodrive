@@ -1,5 +1,5 @@
 <table class="table table-bordered">
-    <h1>Один автомобиль</h1>
+    <h1>Артикул №{{$vehicle->table_id}}</h1>
     <thead style="border: 2px solid black">
     <tr style="border: 2px solid black">
         <th style="border: 2px solid black">#ID</th>
@@ -80,7 +80,6 @@
         <th style="border: 2px solid black">vehicleCondition</th>
         <th style="border: 2px solid black">acquisitionSource</th>
         <th style="border: 2px solid black">acquisitionDate</th>
-
     </tr>
     </thead>
     <tbody>
