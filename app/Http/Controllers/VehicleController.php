@@ -173,7 +173,7 @@ class VehicleController extends Controller
         ]);
         $vehicle = Vehicle::findOrFail($id);
         $vehicle = $vehicle->fill($data)->save();
-        if ($vehicle){
+        if ($vehicle) {
             return redirect()->route('show', ['id' => $id]);
         }
     }

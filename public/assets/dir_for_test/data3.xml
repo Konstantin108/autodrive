@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <vehicles>
     <vehicle>
-        <id>111</id>
+        <id>17</id>
         <uin/>
-        <dealer id="3711">Автомобили из японии</dealer>
+        <dealer id="3711">Автомобили из Ховрино</dealer>
         <category id="1">грузовики</category>
         <subcategory/>
         <type>used</type>
@@ -70,13 +70,13 @@
         <manufactureDate/>
     </vehicle>
     <vehicle>
-        <id>3081666</id>
+        <id>3</id>
         <uin/>
-        <dealer id="3711">Автомобили с пробегом Воронеж</dealer>
+        <dealer id="3711">Автомобили с пробегом Корея</dealer>
         <category id="1">самолеты</category>
         <subcategory/>
         <type>used</type>
-        <year>2017</year>
+        <year>2010</year>
         <brand id="118">LADA (ВАЗ)</brand>
         <model id="5814">Vesta</model>
         <generation id="6517">I</generation>
@@ -204,105 +204,34 @@
         <manufactureDate/>
     </vehicle>
     <vehicle>
-        <id>3081669</id>
+        <id>4545</id>
         <uin/>
-        <dealer id="3711">Автомобили с пробегом из европы</dealer>
-        <category id="1">Легковые</category>
+        <dealer id="3711">Автомобили из Хорватии</dealer>
+        <category id="1">грузовики</category>
         <subcategory/>
         <type>used</type>
-        <year>2015</year>
-        <brand id="9">Audi</brand>
-        <model id="96">Q3</model>
-        <generation id="4596">I (8U) Рестайлинг</generation>
-        <bodyConfiguration id="6556">Внедорожник 5 дв.</bodyConfiguration>
-        <modification id="47504">2.0 AMT (180 л.с.) 4WD</modification>
+        <year>2018</year>
+        <brand id="46">Hyundai</brand>
+        <model id="884">Sonata</model>
+        <generation id="7820">VII (LF) Рестайлинг</generation>
+        <bodyConfiguration id="5998">Седан</bodyConfiguration>
+        <modification id="59931">2.0 AT (150 л.с.)</modification>
         <complectation/>
-        <brandComplectationCode/>
-        <engineType>petrol</engineType>
-        <engineVolume>1984</engineVolume>
-        <enginePower>180</enginePower>
-        <bodyType>suv</bodyType>
-        <bodyDoorCount>5</bodyDoorCount>
-        <bodyColor>grey</bodyColor>
-        <bodyColorMetallic>0</bodyColorMetallic>
-        <driveType>full_4wd</driveType>
-        <gearboxType>robotized</gearboxType>
-        <gearboxGearCount>7</gearboxGearCount>
-        <steeringWheel>left</steeringWheel>
-        <mileage>115922</mileage>
-        <mileageUnit>km</mileageUnit>
-        <price>1734000</price>
-        <specialOffer>0</specialOffer>
-        <specialOfferPreviousPrice/>
-        <tradeinDiscount/>
-        <creditDiscount/>
-        <insuranceDiscount/>
-        <maxDiscount/>
-        <availability>available</availability>
-        <ptsType>duplicate</ptsType>
-        <country/>
-        <operatingTime/>
-        <ecoClass/>
-        <driveWheel/>
-        <axisCount/>
-        <brakeType/>
-        <cabinType/>
-        <maximumPermittedMass/>
-        <saddleHeight/>
-        <cabinSuspension/>
-        <chassisSuspension/>
-        <length/>
-        <width/>
-        <bodyVolume/>
-        <bucketVolume/>
-        <tractionClass/>
-        <refrigeratorClass/>
-        <craneArrowRadius/>
-        <craneArrowLength/>
-        <craneArrowPayload/>
-        <loadHeight/>
-        <photoCount>1</photoCount>
-        <description>
-            <![CDATA[Без окрасов, без вложений по технической части автомобиля, два ключа, климат-контроль]]></description>
-        <ownersCount>3</ownersCount>
-        <vehicleCondition>excellent</vehicleCondition>
-        <brandColorCode/>
-        <brandInteriorCode/>
-        <certificationProgram/>
-        <acquisitionSource>buyout</acquisitionSource>
-        <acquisitionDate>2021-12-07</acquisitionDate>
-        <manufactureDate/>
-    </vehicle>
-    <vehicle>
-        <id>3081671</id>
-        <uin/>
-        <dealer id="3711">Автомобили с пробегом Брянск</dealer>
-        <category id="1">Легковые</category>
-        <subcategory/>
-        <type>used</type>
-        <year>2021</year>
-        <brand id="55">Kia</brand>
-        <model id="7811">K5</model>
-        <generation id="10869">III</generation>
-        <bodyConfiguration id="9596">Седан</bodyConfiguration>
-        <modification id="74104">2.0 AT (150 л.с.)</modification>
-        <complectation id="16719">Comfort</complectation>
         <brandComplectationCode/>
         <engineType>petrol</engineType>
         <engineVolume>1999</engineVolume>
         <enginePower>150</enginePower>
-        <bodyNumber/>
         <bodyType>sedan</bodyType>
         <bodyDoorCount>4</bodyDoorCount>
-        <bodyColor>grey</bodyColor>
-        <bodyColorMetallic>0</bodyColorMetallic>
+        <bodyColor>white</bodyColor>
+        <bodyColorMetallic>1</bodyColorMetallic>
         <driveType>front</driveType>
         <gearboxType>automatic</gearboxType>
-        <gearboxGearCount/>
+        <gearboxGearCount>6</gearboxGearCount>
         <steeringWheel>left</steeringWheel>
-        <mileage>15000</mileage>
+        <mileage>167637</mileage>
         <mileageUnit>km</mileageUnit>
-        <price>2189000</price>
+        <price>1275000</price>
         <specialOffer>0</specialOffer>
         <specialOfferPreviousPrice/>
         <tradeinDiscount/>
@@ -333,89 +262,14 @@
         <craneArrowPayload/>
         <loadHeight/>
         <photoCount>1</photoCount>
-        <description><![CDATA[Представляем вашему вниманию Kia K5, надежный автомобиль, состояние отличное!
-По кузову в заводском окрасе, 1 владелец за все время.
-Комплектация: салон ткань, 2-зонный климат-контроль, круиз-контроль, парктроники в круг, камера заднего вида, эл обогрев передних сидений, зеркал заднего вида.]]></description>
-        <ownersCount>1</ownersCount>
+        <description/>
+        <ownersCount>3</ownersCount>
         <vehicleCondition>excellent</vehicleCondition>
-        <equipment>
-            <group id="1" name="Активная безопасность">
-                <element id="1">Антиблокировочная система</element>
-                <element id="2">Антипробуксовочная система</element>
-                <element id="3">Система курсовой устойчивости</element>
-                <element id="5">Система помощи при экстренном торможении</element>
-                <element id="8">Датчик давления в шинах</element>
-                <element id="223">ЭРА-ГЛОНАСС</element>
-            </group>
-            <group id="2" name="Пассивная безопасность">
-                <element id="10">Подушки безопасности водителя</element>
-                <element id="12">Подушки безопасности пассажира</element>
-                <element id="14">Боковые передние подушки безопасности</element>
-                <element id="16">Оконные шторки безопасности</element>
-                <element id="18">Блокировка замков задних дверей</element>
-                <element id="19">Система крепления детских автокресел</element>
-            </group>
-            <group id="3" name="Противоугонная система">
-                <element id="24">Иммобилайзер</element>
-                <element id="25">Центральный замок</element>
-            </group>
-            <group id="4" name="Помощь при вождении">
-                <element id="26">Бортовой компьютер</element>
-                <element id="27">Круиз-контроль</element>
-                <element id="31">Парктроник передний и задний</element>
-                <element id="33">Камера заднего вида</element>
-                <element id="36">Система помощи при старте в гору</element>
-                <element id="41">Датчик света</element>
-            </group>
-            <group id="5" name="Комфорт">
-                <element id="43">Усилитель руля</element>
-                <element id="52">Регулировка руля</element>
-                <element id="57">Регулировка сиденья водителя в двух плоскостях</element>
-                <element id="67">Электростеклоподъемники передние и задние</element>
-                <element id="68">Электропривод зеркал</element>
-            </group>
-            <group id="6" name="Управление климатом и обогрев">
-                <element id="76">Климат-контроль 2-зонный</element>
-                <element id="86">Подогрев сидений водителя и пассажира</element>
-                <element id="88">Подогрев руля</element>
-                <element id="89">Обогрев зеркал</element>
-                <element id="91">Обогрев лобового стекла</element>
-                <element id="94">Обогрев форсунок стеклоомывателей</element>
-            </group>
-            <group id="7" name="Мультимедиа и навигация">
-                <element id="99">CD</element>
-                <element id="101">USB</element>
-                <element id="105">TV</element>
-                <element id="106">Функция Apple CarPlay</element>
-                <element id="107">Функция Android Auto</element>
-                <element id="109">Bluetooth</element>
-                <element id="121">Мультифункциональное рулевое колесо</element>
-            </group>
-            <group id="8" name="Салон и интерьер">
-                <element id="124">Тканевая обивка салона</element>
-                <element id="132">Отделка кожей рычага КПП</element>
-                <element id="133">Кожаный руль</element>
-                <element id="139">Складывающееся заднее сидение</element>
-                <element id="141">Третий задний подголовник</element>
-                <element id="143">Передний центральный подлокотник</element>
-            </group>
-            <group id="9" name="Экстерьер">
-                <element id="159">Размер дисков 17″</element>
-            </group>
-            <group id="10" name="Освещение">
-                <element id="182">Светодиодные фары</element>
-                <element id="183">Противотуманные фары</element>
-                <element id="185">Огни дневного хода</element>
-            </group>
-            <group id="12" name="Комплектность">
-                <element id="214">Запасное колесо</element>
-            </group>
-        </equipment>
         <brandColorCode/>
         <brandInteriorCode/>
         <certificationProgram/>
-        <acquisitionSource>buyout</acquisitionSource>
-        <acquisitionDate>2021-11-10</acquisitionDate>
+        <acquisitionSource>trade_in_used</acquisitionSource>
+        <acquisitionDate>2021-11-30</acquisitionDate>
         <manufactureDate/>
     </vehicle>
 </vehicles>
