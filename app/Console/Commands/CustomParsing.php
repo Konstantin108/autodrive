@@ -13,7 +13,7 @@ class CustomParsing extends Command
      *
      * @var string
      */
-    protected $signature = 'myparser {data=/assets/dir_for_test/data3.xml}';
+    protected $signature = 'myparser {data=/assets/data.xml}';
 
     public ParserService $service;
 
